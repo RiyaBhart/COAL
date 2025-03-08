@@ -1,0 +1,8 @@
+after a
+CF = 1, SF = 0, ZF = 1, OF = 0
+
+after b
+CF = 0, SF = 1, ZF = 0, OF = 1
+
+after c
+CF = 0, SF = 1, ZF = 0, OF = 0
